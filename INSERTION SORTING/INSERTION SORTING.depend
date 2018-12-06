@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541408269 source:e:\3rd year\analysis and design algorithms asgnment\merge sorting\insertion sorting\insertion sorting\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+
